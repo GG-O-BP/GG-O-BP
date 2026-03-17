@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&lines=gleam+%E2%9C%A8+mendix+%E2%9C%A8+rust+%E2%9C%A8+tauri;writing+mendix+widgets+in+gleam!;i+can+speak+20%2B+programming+languages+%F0%9F%92%96" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/GG-O-BP?tab=repositories">
     <img src="https://img.shields.io/badge/🌸_have_a_look_at_my_repos!-FF69B4?style=for-the-badge" />
   </a>
