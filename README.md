@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 ### 🎀 about me!!
 
 hello hello!! i'm ever so pleased you've popped by my profile! 💕
