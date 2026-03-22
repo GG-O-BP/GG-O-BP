@@ -66,7 +66,7 @@ pub fn widget(props: JsProps) -> ReactElement {
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GG-O-BP&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GG-O-BP&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GG-O-BP&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 </p>
 
 ---
