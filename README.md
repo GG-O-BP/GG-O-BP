@@ -34,12 +34,25 @@ here's just a tiny peek at what it does:
 - 🧩 **.mpk widget support** — pop them in and they just work!
 - 🛍️ **Marketplace downloader** — search and grab widgets from the terminal!
 
+want to give it a go?? just run this and you're off!! 🚀
+
+```bash
+npx create-mendix-widget-gleam widget-name
+```
+
+it scaffolds a whole Mendix Pluggable Widget project written in Gleam — everything's set up and ready to go, no faffing about!! 🎁
+
 ```gleam
+import mendraw/mendix.{type JsProps}
+import redraw.{type Element}
+import redraw/dom/attribute
+import redraw/dom/html
+
 // look how short and sweet it is!!
-pub fn widget(props: JsProps) -> ReactElement {
+pub fn widget(props: JsProps) -> Element {
   let name = mendix.get_string_prop(props, "sampleText")
   html.div([attribute.class("my-widget")], [
-    react.text("Hello " <> name),
+    html.text("Hello " <> name),
   ])
 }
 ```
